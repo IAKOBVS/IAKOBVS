@@ -1,4 +1,4 @@
-## Hi there 👋
+Contributions: https://github.com/pulls?q=is%3Apr+author%3AIAKOBVS+archived%3Afalse+is%3Aclosed+is%3Apublic+is%3Amerged
 
 <!--
 **IAKOBVS/IAKOBVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
